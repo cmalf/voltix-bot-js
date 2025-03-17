@@ -2,6 +2,10 @@
 Voltix Task Automation: Main Tasks , Daily Tasks
 
 > [!WARNING]
+> ## The bot is currently not working!
+> ## Cloudflare Protection!
+
+> [!WARNING]
 > The use of this bot is entirely at your own risk. I assume no liability for any losses, damages, or consequences arising from its use.
 
 ## 🦾 Bot Script Features
